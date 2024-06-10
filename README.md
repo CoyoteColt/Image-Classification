@@ -1,7 +1,7 @@
 # Classification of satellite images
 This repository aims to explore and understand the world of image classification, covering how it works, the technologies involved and the tools used. Through this repository, we aim to provide a comprehensive overview of the fundamental concepts of image classification, including machine learning algorithms, convolutional neural networks (CNNs), and data preprocessing techniques.
 
-## Sumário
+## Summary
 - Introduction
 - Functionalities
 - Technologies Used
