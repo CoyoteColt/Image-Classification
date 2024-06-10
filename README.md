@@ -27,4 +27,4 @@ The notebook is fully prepared to work in Colab, just upload the image dataset.
 <a href="https://drive.google.com/file/d/1Od5FpKTLTbWQaj59R7kFYsXFFuZ5gr1G/view?usp=sharing">Download Dataset </a>
 
 ## Use
-Download the repository, upload it to Google Colab, don't forget to download and upload the dataset in your google drive and enjoy.
+Download the repository, upload it to Google Colab, don't forget to download and upload the dataset in your google, also don't forget to modify the Colab execution environment for the GPU, otherwise training the model could take hours and hours. To change the execution environment of your Colab, go to the top right bar and click on the "Connect" option, a new window will open in which you must click on "Change execution environment type" and select an environment with a GPU. ready now just enjoy
